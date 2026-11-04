@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Local scratch
+_summarize_tmp.py
+
+# Draft exhibits from the pre-audit run. Names collide with the published set
+# (chart4, chart5, chart6), so they stay off the repository page.
+output/chart4_scatter_domestic.png
+output/chart5_summary_spy.png
+output/chart6_kba_detail_spy.png
+output/chart7_kweb_detail_spy.png
+output/chart8_scatter_spy.png
+output/table_beta_quality.png
+output/table_summary.png
+output/full_analysis_data.csv
+output/kba_kweb_full_analysis_audited.py
+output/kba_kweb_full_analysis_final.py
