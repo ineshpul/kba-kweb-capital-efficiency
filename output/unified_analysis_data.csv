@@ -1,0 +1,71 @@
+etf,name,weight,sector,metric_type,return_rate,beta,beta_source,hurdle_domestic,hurdle_spy,spread_domestic,spread_spy,equity,debt,data_source,fiscal_year
+KBA,CATL,7.0,Industrial & Consumer,ROIC,16.73,1.6365,factset,9.44,5.84,7.29,10.89,337107747000.0,119656488000.0,yfinance,2025
+KBA,Kweichow Moutai,5.0,Industrial & Consumer,ROIC,46.52,1.054,factset,8.2,6.84,38.32,39.68,233105984399.47,425857527.96,yfinance,2024
+KBA,Zijin Mining,3.5,Industrial & Consumer,ROIC,20.42,1.0914,factset,5.87,5.03,14.55,15.39,185541965085.0,164492766171.0,yfinance,2025
+KBA,Foxconn Industrial,3.0,Technology & Semi,ROIC,20.23,2.1587,factset,10.15,5.31,10.08,14.92,166778112000.0,110184402000.0,yfinance,2025
+KBA,Zhongji Innolight,2.8,Technology & Semi,ROIC,26.13,3.1157,factset,18.49,6.37,7.64,19.76,19133887012.66,2699553564.41,yfinance,2024
+KBA,Hygon Information,2.5,Technology & Semi,ROIC,10.34,1.6369,factset,10.64,6.37,-0.3,3.97,20250959179.95,2902119057.52,yfinance,2024
+KBA,Cambricon,2.3,Technology & Semi,ROIC,17.05,2.192,factset,15.07,6.85,1.98,10.2,11836173972.81,16712288.2,yfinance,2025
+KBA,CMOC Group,2.0,Industrial & Consumer,ROIC,30.49,1.5297,factset,8.66,5.69,21.83,24.8,71022993716.51,30248216854.75,yfinance,2024
+KBA,China Merchants Bank,2.0,Financial & Const. SOE,ROE,12.1,0.5824,factset,5.35,6.85,6.75,5.25,1226014000000.0,0.0,yfinance,2024
+KBA,Eoptolink Technology,1.8,Technology & Semi,ROIC,35.65,3.0393,factset,20.18,6.84,15.47,28.81,8328129817.86,18333994.99,yfinance,2024
+KBA,China Yangtze Power,1.8,Energy & Utilities,ROIC,7.69,-0.1094,factset,2.23,4.58,5.46,3.11,210288410895.97,297462904605.94,yfinance,2024
+KBA,Wanhua Chemical,1.7,Energy & Utilities,ROIC,9.54,1.6884,factset,7.28,4.81,2.26,4.73,94625896066.69,104824578073.8,yfinance,2024
+KBA,Ping An Insurance,1.7,Financial & Const. SOE,ROE,13.12,1.2328,factset,9.29,6.85,3.83,6.27,1114281.0,0.0,manual,2025
+KBA,Agricultural Bank,1.5,Financial & Const. SOE,ROE,10.76,0.3897,factset,4.19,6.85,6.57,3.91,2842306.0,0.0,manual,2025
+KBA,Midea Group,1.5,Industrial & Consumer,ROIC,13.34,0.6886,factset,5.14,5.75,8.2,7.59,216750057000.0,86255072000.0,yfinance,2024
+KBA,Jiangsu Hengrui,1.5,Industrial & Consumer,ROIC,12.56,1.1195,factset,8.6,6.85,3.96,5.71,61272068641.41,74233076.53,yfinance,2025
+KBA,Sungrow Power,1.5,Energy & Utilities,ROIC,31.85,1.7158,factset,10.04,5.94,21.81,25.91,36905064146.23,11317317747.62,yfinance,2024
+KBA,ICBC,1.4,Financial & Const. SOE,ROE,9.22,-0.0366,factset,1.61,6.85,7.61,2.37,3969841000000.0,0.0,yfinance,2024
+KBA,Industrial Bank,1.3,Financial & Const. SOE,ROE,9.17,0.6215,factset,5.59,6.85,3.58,2.32,821716.0,0.0,manual,2025
+KBA,Bank of Communications,1.2,Financial & Const. SOE,ROE,7.44,0.0928,factset,2.39,6.85,5.05,0.59,1322915.0,0.0,manual,2025
+KBA,China Shenhua,1.2,Energy & Utilities,ROIC,16.4,0.0729,factset,2.34,6.49,14.06,9.91,426866000000.0,43368000000.0,yfinance,2024
+KBA,CSSC Holdings,1.2,Financial & Const. SOE,ROE,7.1,0.7218,factset,6.2,6.85,0.9,0.25,50899798605.37,0.0,yfinance,2024
+KBA,East Money,1.1,Technology & Semi,ROIC,4.35,3.3291,factset,10.6,4.53,-6.25,-0.18,91875470955.31,137007757130.39,yfinance,2025
+KBA,Beijing-Shanghai HSR,1.0,Energy & Utilities,ROIC,6.4,0.3577,factset,3.78,6.05,2.62,0.35,202403433271.18,52646076124.14,yfinance,2024
+KBA,Shanghai Pudong Bank,1.0,Financial & Const. SOE,ROE,6.21,0.7088,factset,6.12,6.85,0.09,-0.64,766995.0,0.0,manual,2025
+KBA,WuXi AppTec,1.0,Industrial & Consumer,ROIC,17.29,1.6554,factset,11.0,6.48,6.29,10.81,79712290246.44,8420113174.81,yfinance,2025
+KBA,Wuliangye Yibin,1.0,Industrial & Consumer,ROIC,28.04,1.5779,factset,11.33,6.83,16.71,21.21,133285282015.97,802597789.53,yfinance,2024
+KBA,CITIC Securities,1.0,Financial & Const. SOE,ROE,7.4,1.5998,factset,11.51,6.85,-4.11,0.55,293108725612.16,0.0,yfinance,2024
+KBA,Shenzhen Mindray,1.0,Industrial & Consumer,ROIC,34.15,0.9785,factset,7.71,6.82,26.44,27.33,35856358850.0,298486475.0,yfinance,2024
+KBA,NARI Technology,0.9,Technology & Semi,ROIC,16.61,0.58,factset,5.31,6.8,11.3,9.81,49224415898.92,692377927.97,yfinance,2024
+KBA,PetroChina,0.9,Energy & Utilities,ROIC,13.64,0.2485,factset,3.27,6.11,10.37,7.53,1515371000000.0,355752000000.0,yfinance,2024
+KBA,China State Construction,0.9,Financial & Const. SOE,ROE,10.19,0.668,factset,5.87,6.85,4.32,3.34,453185.0,0.0,manual,2025
+KBA,Shaanxi Coal,0.8,Energy & Utilities,ROIC,38.92,0.3038,factset,3.55,6.19,35.37,32.73,90586273601.68,18723746488.58,yfinance,2024
+KBA,China United Network,0.8,Energy & Utilities,ROIC,11.74,0.82,factset,6.15,6.2,5.59,5.54,168591217309.0,34102657839.0,yfinance,2025
+KBA,China Pacific Insurance,0.8,Financial & Const. SOE,ROE,17.24,1.4515,factset,10.61,6.85,6.63,10.39,336531.0,0.0,manual,2025
+KBA,Guotai Haitong Securities,0.7,Financial & Const. SOE,ROE,7.63,0.174,factset,2.88,6.85,4.75,0.78,170775389621.0,0.0,yfinance,2024
+KBA,SF Holding,0.7,Industrial & Consumer,ROIC,10.93,1.2004,factset,6.78,5.38,4.15,5.55,91993286000.0,56054779000.0,yfinance,2024
+KBA,Muyuan Foods,0.7,Industrial & Consumer,ROIC,14.49,1.356,factset,6.41,4.86,8.08,9.63,72031777857.01,76079946333.2,yfinance,2024
+KBA,Zhejiang Century Huatong,0.6,Industrial & Consumer,ROIC,11.83,1.4933,factset,9.64,6.25,2.19,5.58,24808752432.66,4563138574.59,yfinance,2024
+KBA,Bank of China,0.6,Financial & Const. SOE,ROE,8.45,-0.0201,factset,1.71,6.85,6.74,1.6,2816231000000.0,0.0,yfinance,2024
+KBA,Ping An Bank,0.6,Financial & Const. SOE,ROE,8.7,1.0249,factset,8.03,6.85,0.67,1.85,471184.0,0.0,manual,2025
+KBA,China National Nuclear,0.6,Energy & Utilities,ROIC,5.13,-0.0783,factset,2.61,3.84,2.52,1.29,110217027781.66,383870404281.47,yfinance,2024
+KBA,Bank of Ningbo,0.6,Financial & Const. SOE,ROE,11.86,1.2255,factset,9.24,6.85,2.62,5.01,247325.0,0.0,manual,2025
+KBA,Shanxi Xinghuacun Fen Wine,0.5,Industrial & Consumer,ROIC,43.43,1.5749,factset,11.23,6.79,32.2,36.64,34753830416.04,545984573.16,yfinance,2024
+KBA,China Merchants Shekou,0.5,Industrial & Consumer,ROIC,2.8,1.4468,factset,5.12,4.07,-2.32,-1.27,97652364027.9,248496564558.35,yfinance,2025
+KBA,Poly Developments,0.5,Financial & Const. SOE,ROE,2.53,1.4403,factset,10.54,6.85,-8.01,-4.32,197596494142.03,0.0,yfinance,2024
+KBA,BYD,4.0,Industrial & Consumer,ROIC,38.83,1.1114,factset,8.55,6.85,30.28,31.98,185258.0,0.0,manual,2025
+KWEB,Tencent,10.0,Social & Entertainment,ROIC,14.02,1.1714,factset,9.43,8.41,4.59,5.61,973548000000.0,358112000000.0,yfinance,2024
+KWEB,Alibaba,9.5,E-Commerce,ROIC,10.79,2.1087,factset,14.49,8.82,-3.7,1.97,1009858000000.0,248110000000.0,yfinance,2025
+KWEB,PDD Holdings,7.0,E-Commerce,ROIC,32.39,0.8218,factset,9.06,9.75,23.33,22.64,313313124000.0,10607140000.0,yfinance,2024
+KWEB,Meituan,6.0,E-Commerce,ROIC,14.43,1.7698,factset,12.14,8.44,2.29,5.99,172662960000.0,61509567000.0,yfinance,2024
+KWEB,NetEase,4.5,Social & Entertainment,ROIC,23.12,0.5127,factset,7.35,9.94,15.77,13.18,125504.0,0.0,manual,2025
+KWEB,KE Holdings,3.5,E-Commerce,ROIC,4.67,2.123,factset,14.0,8.57,-9.33,-3.9,71323816000.0,22654751000.0,yfinance,2024
+KWEB,Baidu,3.5,Social & Entertainment,ROIC,2.51,1.3406,factset,10.19,8.42,-7.68,-5.91,266330000000.0,97077000000.0,yfinance,2025
+KWEB,JD.com,3.5,E-Commerce,ROIC,15.24,1.9056,factset,12.63,8.39,2.61,6.85,239347000000.0,89768000000.0,yfinance,2024
+KWEB,Kuaishou,3.0,Social & Entertainment,ROIC,14.67,1.9296,factset,12.16,8.1,2.51,6.57,62004000000.0,29533000000.0,yfinance,2024
+KWEB,JD Health,2.5,E-Commerce,ROIC,2.53,1.9885,factset,16.22,9.91,-13.69,-7.38,55231156000.0,258393000.0,yfinance,2024
+KWEB,Tencent Music,2.5,Social & Entertainment,ROIC,8.9,0.9251,factset,9.39,9.47,-0.49,-0.57,67863000000.0,6051000000.0,yfinance,2024
+KWEB,Bilibili,2.0,Social & Entertainment,ROIC,-6.93,2.7189,factset,16.36,8.44,-23.29,-15.37,14108397000.0,5050613000.0,yfinance,2024
+KWEB,TAL Education,1.8,E-Commerce,ROIC,-0.07,1.3545,factset,11.78,9.47,-11.85,-9.54,3766567000.0,333348000.0,yfinance,2025
+KWEB,Kanzhun,1.8,E-Commerce,ROIC,6.91,0.6892,factset,8.34,9.82,-1.43,-2.91,14867371000.0,302127000.0,yfinance,2024
+KWEB,Alibaba Health,1.5,E-Commerce,ROIC,9.48,2.758,factset,20.9,9.92,-11.42,-0.44,16312179000.0,35515000.0,yfinance,2025
+KWEB,Tongcheng Travel,1.5,E-Commerce,ROIC,8.7,0.929,factset,8.74,8.8,-0.04,-0.1,20001471000.0,5008422000.0,yfinance,2024
+KWEB,ZhongAn Online,1.2,Fintech & Insurance,ROE,2.88,1.7687,factset,14.95,9.94,-12.07,-7.06,20926401000.0,0.0,yfinance,2024
+KWEB,NetEase Cloud Music,1.2,Social & Entertainment,ROIC,10.26,0.8677,factset,9.5,9.93,0.76,0.33,10177651000.0,6472000.0,yfinance,2024
+KWEB,China Literature,1.0,Social & Entertainment,ROIC,2.9,1.2351,factset,11.66,9.89,-8.76,-6.99,18374441000.0,166213000.0,yfinance,2024
+KWEB,East Buy,0.8,E-Commerce,ROIC,-1.36,1.6733,factset,14.27,9.88,-15.63,-11.24,5117097000.0,50778000.0,yfinance,2025
+KWEB,Ping An Healthcare,0.8,Fintech & Insurance,ROE,2.27,1.6151,factset,14.02,9.94,-11.75,-7.67,3589369000.0,0.0,yfinance,2024
+KWEB,Autohome,0.7,E-Commerce,ROIC,3.65,0.743,factset,8.73,9.91,-5.08,-6.26,23951737000.0,96713000.0,yfinance,2024
+KWEB,Damai Entertainment,0.5,Social & Entertainment,ROIC,2.39,1.5629,factset,13.34,9.71,-10.95,-7.32,16227560000.0,661389000.0,yfinance,2025
