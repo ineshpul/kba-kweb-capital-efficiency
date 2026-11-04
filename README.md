@@ -3,6 +3,8 @@
 **Inesh Pulugurtha** · Kelley School of Business, Indiana University  
 March 2026 valuation, refreshed 30 October 2026
 
+The written memo is [KBA vs. KWEB: Relative Value in Two China ETFs](kba-vs-kweb-memo.pdf). The sections below are the capital-efficiency valuation behind that memo, including the 30 October 2026 refresh.
+
 KraneShares Bosera MSCI China A 50 Connect Index ETF (**KBA**) earns far more than its cost of capital. KraneShares CSI China Internet ETF (**KWEB**) earns roughly its cost of capital in the March snapshot, and falls short of it once the books and the US 10-year are updated through 30 October 2026.
 
 The test is holdings-level economic profit. Corporates are scored on return on invested capital against WACC. Banks, insurers, and other financials are scored on return on equity against the cost of equity. Both are reported as one number: the **spread**, in percentage points.
@@ -100,6 +102,7 @@ The first script rebuilds the March exhibits in `output/`. The second writes `ou
 
 | Path | Role |
 |---|---|
+| `kba-vs-kweb-memo.pdf` | Two-page research memo |
 | `kba_kweb_full_analysis_audited.py` | Valuation model: holdings, FactSet betas, ROIC / ROE, WACC / Ke, charts |
 | `aging_check.py` | 30 October 2026 refresh of statements and risk-free rates |
 | `output/` | March exhibits and the holdings-level valuation file |
