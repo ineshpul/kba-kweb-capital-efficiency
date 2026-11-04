@@ -1,0 +1,77 @@
+etf,name,weight,sector,status,metric_type,return_new,return_old,fy_new,fy_old,hurdle_dom_new,hurdle_dom_old,hurdle_dom_same_rates,hurdle_spy_new,spread_dom_new,spread_dom_old,spread_spy_new,source
+KBA,CATL,7.0,Industrial & Consumer,refreshed,ROIC,16.73,16.73,2025,2025.0,9.26,9.44,9.44,6.31,7.47,7.29,10.42,yfinance
+KBA,Kweichow Moutai,5.0,Industrial & Consumer,refreshed,ROIC,42.59,46.52,2025,2024.0,8.02,8.2,8.2,7.54,34.57,38.32,35.05,yfinance
+KBA,Zijin Mining,3.5,Industrial & Consumer,refreshed,ROIC,20.42,20.42,2025,2025.0,5.7,5.87,5.87,5.32,14.72,14.55,15.1,yfinance
+KBA,Foxconn Industrial,3.0,Technology & Semi,refreshed,ROIC,20.23,20.23,2025,2025.0,9.98,10.15,10.15,5.66,10.25,10.08,14.57,yfinance
+KBA,Zhongji Innolight,2.8,Technology & Semi,refreshed,ROIC,41.68,26.13,2025,2024.0,19.56,18.49,19.74,7.29,22.12,7.64,34.39,yfinance
+KBA,Hygon Information,2.5,Technology & Semi,refreshed,ROIC,11.9,10.34,2025,2024.0,10.11,10.64,10.28,6.76,1.79,-0.3,5.14,yfinance
+KBA,Cambricon,2.3,Technology & Semi,refreshed,ROIC,17.05,17.05,2025,2025.0,14.89,15.07,15.07,7.53,2.16,1.98,9.52,yfinance
+KBA,CMOC Group,2.0,Industrial & Consumer,refreshed,ROIC,38.68,30.49,2025,2024.0,8.63,8.66,8.8,6.21,30.05,21.83,32.47,yfinance
+KBA,China Merchants Bank,2.0,Financial & Const. SOE,refreshed,ROE,11.8,12.1,2025,2024.0,5.17,5.35,5.35,7.54,6.63,6.75,4.26,yfinance
+KBA,Eoptolink Technology,1.8,Technology & Semi,refreshed,ROIC,59.07,35.65,2025,2024.0,20.02,20.18,20.2,7.54,39.05,15.47,51.53,yfinance
+KBA,China Yangtze Power,1.8,Energy & Utilities,refreshed,ROIC,7.89,7.69,2025,2024.0,2.03,2.23,2.19,4.87,5.86,5.46,3.02,yfinance
+KBA,Wanhua Chemical,1.7,Energy & Utilities,carried,ROIC,9.54,9.54,2024,2024.0,7.11,7.28,7.28,5.06,2.43,2.26,4.48,carried_yfinance
+KBA,Ping An Insurance,1.7,Financial & Const. SOE,refreshed,ROE,13.47,13.12,2025,2025.0,9.11,9.29,9.29,7.54,4.36,3.83,5.93,yfinance
+KBA,Agricultural Bank,1.5,Financial & Const. SOE,refreshed,ROE,8.99,10.76,2025,2025.0,4.01,4.19,4.19,7.54,4.98,6.57,1.45,yfinance
+KBA,Midea Group,1.5,Industrial & Consumer,refreshed,ROIC,16.03,13.34,2025,2024.0,5.12,5.14,5.29,6.45,10.91,8.2,9.58,yfinance
+KBA,Jiangsu Hengrui,1.5,Industrial & Consumer,refreshed,ROIC,12.56,12.56,2025,2025.0,8.42,8.6,8.6,7.54,4.14,3.96,5.02,yfinance
+KBA,Sungrow Power,1.5,Energy & Utilities,refreshed,ROIC,34.31,31.85,2025,2024.0,10.92,10.04,11.1,6.97,23.39,21.81,27.34,yfinance
+KBA,ICBC,1.4,Financial & Const. SOE,refreshed,ROE,8.68,9.22,2025,2024.0,1.43,1.61,1.61,7.54,7.25,7.61,1.14,yfinance
+KBA,Industrial Bank,1.3,Financial & Const. SOE,refreshed,ROE,8.59,9.17,2025,2025.0,5.41,5.59,5.59,7.54,3.18,3.58,1.05,yfinance
+KBA,Bank of Communications,1.2,Financial & Const. SOE,refreshed,ROE,7.53,7.44,2025,2025.0,2.21,2.39,2.39,7.54,5.32,5.05,-0.01,yfinance
+KBA,China Shenhua,1.2,Energy & Utilities,refreshed,ROIC,14.62,16.4,2025,2024.0,2.15,2.34,2.33,7.13,12.47,14.06,7.49,yfinance
+KBA,CSSC Holdings,1.2,Financial & Const. SOE,refreshed,ROE,5.47,7.1,2025,2024.0,6.02,6.2,6.2,7.54,-0.55,0.9,-2.07,yfinance
+KBA,East Money,1.1,Technology & Semi,refreshed,ROIC,4.35,4.35,2025,2025.0,10.44,10.6,10.6,4.72,-6.09,-6.25,-0.37,yfinance
+KBA,Beijing-Shanghai HSR,1.0,Energy & Utilities,refreshed,ROIC,6.41,6.4,2025,2024.0,3.62,3.78,3.79,6.61,2.79,2.62,-0.2,yfinance
+KBA,Shanghai Pudong Bank,1.0,Financial & Const. SOE,refreshed,ROE,6.12,6.21,2025,2025.0,5.94,6.12,6.12,7.54,0.18,0.09,-1.42,yfinance
+KBA,WuXi AppTec,1.0,Industrial & Consumer,refreshed,ROIC,17.29,17.29,2025,2025.0,10.82,11.0,11.0,7.09,6.47,6.29,10.2,yfinance
+KBA,Wuliangye Yibin,1.0,Industrial & Consumer,refreshed,ROIC,6.94,28.04,2025,2024.0,11.17,11.33,11.35,7.53,-4.23,16.71,-0.59,yfinance
+KBA,CITIC Securities,1.0,Financial & Const. SOE,refreshed,ROE,9.4,7.4,2025,2024.0,11.33,11.51,11.51,7.54,-1.93,-4.11,1.86,yfinance
+KBA,Shenzhen Mindray,1.0,Industrial & Consumer,refreshed,ROIC,24.06,34.15,2025,2024.0,7.53,7.71,7.71,7.5,16.53,26.44,16.56,yfinance
+KBA,NARI Technology,0.9,Technology & Semi,refreshed,ROIC,17.72,16.61,2025,2024.0,5.13,5.31,5.31,7.49,12.59,11.3,10.23,yfinance
+KBA,PetroChina,0.9,Energy & Utilities,refreshed,ROIC,12.07,13.64,2025,2024.0,3.09,3.27,3.27,6.68,8.98,10.37,5.39,yfinance
+KBA,China State Construction,0.9,Financial & Const. SOE,refreshed,ROE,7.95,10.19,2025,2025.0,5.69,5.87,5.87,7.54,2.26,4.32,0.41,yfinance
+KBA,Shaanxi Coal,0.8,Energy & Utilities,refreshed,ROIC,22.78,38.92,2025,2024.0,3.35,3.55,3.52,6.56,19.43,35.37,16.22,yfinance
+KBA,China United Network,0.8,Energy & Utilities,refreshed,ROIC,11.74,11.74,2025,2025.0,5.97,6.15,6.15,6.75,5.77,5.59,4.99,yfinance
+KBA,China Pacific Insurance,0.8,Financial & Const. SOE,refreshed,ROE,17.71,17.24,2025,2025.0,10.43,10.61,10.61,7.54,7.28,6.63,10.17,yfinance
+KBA,COSCO Shipping,0.7,Energy & Utilities,refreshed,ROIC,10.07,,2025,,6.17,,6.34,6.37,3.9,,3.7,yfinance
+KBA,Guotai Haitong Securities,0.7,Financial & Const. SOE,refreshed,ROE,8.42,7.63,2025,2024.0,2.7,2.88,2.88,7.54,5.72,4.75,0.88,yfinance
+KBA,SF Holding,0.7,Industrial & Consumer,refreshed,ROIC,10.48,10.93,2025,2024.0,6.99,6.78,7.16,6.05,3.49,4.15,4.43,yfinance
+KBA,Muyuan Foods,0.7,Industrial & Consumer,refreshed,ROIC,12.04,14.49,2025,2024.0,6.51,6.41,6.68,5.3,5.53,8.08,6.74,yfinance
+KBA,Zhejiang Century Huatong,0.6,Industrial & Consumer,refreshed,ROIC,22.04,11.83,2025,2024.0,10.05,9.64,10.23,7.16,11.99,2.19,14.88,yfinance
+KBA,Bank of China,0.6,Financial & Const. SOE,refreshed,ROE,7.93,8.45,2025,2024.0,1.53,1.71,1.71,7.54,6.4,6.74,0.39,yfinance
+KBA,Ping An Bank,0.6,Financial & Const. SOE,refreshed,ROE,7.73,8.7,2025,2025.0,7.85,8.03,8.03,7.54,-0.12,0.67,0.19,yfinance
+KBA,China National Nuclear,0.6,Energy & Utilities,refreshed,ROIC,4.62,5.13,2025,2024.0,2.48,2.61,2.63,3.82,2.14,2.52,0.8,yfinance
+KBA,Bank of Ningbo,0.6,Financial & Const. SOE,refreshed,ROE,11.86,11.86,2025,2025.0,9.06,9.24,9.24,7.54,2.8,2.62,4.32,yfinance
+KBA,Shanxi Xinghuacun Fen Wine,0.5,Industrial & Consumer,refreshed,ROIC,38.65,43.43,2025,2024.0,11.14,11.23,11.32,7.52,27.51,32.2,31.13,yfinance
+KBA,China Merchants Shekou,0.5,Industrial & Consumer,refreshed,ROIC,2.8,2.8,2025,2025.0,4.96,5.12,5.12,4.15,-2.16,-2.32,-1.35,yfinance
+KBA,Poly Developments,0.5,Financial & Const. SOE,refreshed,ROE,0.54,2.53,2025,2024.0,10.36,10.54,10.54,7.54,-9.82,-8.01,-7.0,yfinance
+KBA,BYD,4.0,Industrial & Consumer,refreshed,ROIC,11.29,38.83,2025,2025.0,6.56,8.55,6.74,6.0,4.73,30.28,5.29,yfinance
+KWEB,Tencent,10.0,Social & Entertainment,refreshed,ROIC,14.96,14.02,2025,2024.0,10.41,9.43,9.74,9.33,4.55,4.59,5.63,yfinance
+KWEB,Alibaba,9.5,E-Commerce,refreshed,ROIC,4.09,10.79,2026,2025.0,15.0,14.49,14.33,9.41,-10.91,-3.7,-5.32,yfinance
+KWEB,PDD Holdings,7.0,E-Commerce,refreshed,ROIC,21.07,32.39,2025,2024.0,9.85,9.06,9.16,10.55,11.22,23.33,10.52,yfinance
+KWEB,Meituan,6.0,E-Commerce,refreshed,ROIC,-12.61,14.43,2025,2024.0,11.71,12.14,11.05,8.52,-24.32,2.29,-21.13,yfinance
+KWEB,NetEase,4.5,Social & Entertainment,refreshed,ROIC,19.56,23.12,2025,2025.0,7.91,7.35,7.23,10.39,11.65,15.77,9.17,yfinance
+KWEB,KE Holdings,3.5,E-Commerce,refreshed,ROIC,3.1,4.67,2025,2024.0,14.93,14.0,14.26,9.35,-11.83,-9.33,-6.25,yfinance
+KWEB,Baidu,3.5,Social & Entertainment,refreshed,ROIC,2.51,2.51,2025,2025.0,10.86,10.19,10.19,9.08,-8.35,-7.68,-6.57,yfinance
+KWEB,JD.com,3.5,E-Commerce,refreshed,ROIC,1.56,15.24,2025,2024.0,12.72,12.63,12.06,8.76,-11.16,2.61,-7.2,yfinance
+KWEB,Kuaishou,3.0,Social & Entertainment,refreshed,ROIC,15.35,14.67,2025,2024.0,13.02,12.16,12.36,8.86,2.33,2.51,6.49,yfinance
+KWEB,JD Health,2.5,E-Commerce,refreshed,ROIC,6.28,2.53,2025,2024.0,16.84,16.22,16.15,10.57,-10.56,-13.69,-4.29,yfinance
+KWEB,Tencent Music,2.5,Social & Entertainment,refreshed,ROIC,10.24,8.9,2025,2024.0,10.28,9.39,9.59,10.36,-0.04,-0.49,-0.12,yfinance
+KWEB,Trip.com,2.5,E-Commerce,refreshed,ROIC,7.41,,2025,,9.13,,8.46,9.72,-1.72,,-2.31,yfinance
+KWEB,Full Truck Alliance,2.0,E-Commerce,refreshed,ROIC,9.08,,2025,,7.61,,6.92,10.62,1.47,,-1.54,yfinance
+KWEB,Bilibili,2.0,Social & Entertainment,refreshed,ROIC,4.28,-6.93,2025,2024.0,15.0,16.36,14.35,8.39,-10.72,-23.29,-4.11,yfinance
+KWEB,TAL Education,1.8,E-Commerce,refreshed,ROIC,6.08,-0.07,2026,2025.0,12.36,11.78,11.68,10.09,-6.28,-11.85,-4.01,yfinance
+KWEB,Kanzhun,1.8,E-Commerce,refreshed,ROIC,10.82,6.91,2025,2024.0,9.08,8.34,8.39,10.58,1.74,-1.43,0.24,yfinance
+KWEB,Vipshop,1.5,E-Commerce,refreshed,ROIC,18.32,,2025,,11.77,,11.1,9.82,6.55,,8.5,yfinance
+KWEB,Alibaba Health,1.5,E-Commerce,refreshed,ROIC,11.09,9.48,2026,2025.0,21.57,20.9,20.88,10.61,-10.48,-11.42,0.48,yfinance
+KWEB,Tongcheng Travel,1.5,E-Commerce,refreshed,ROIC,11.0,8.7,2025,2024.0,9.45,8.74,8.78,9.51,1.55,-0.04,1.49,yfinance
+KWEB,ZhongAn Online,1.2,Fintech & Insurance,refreshed,ROE,4.33,2.88,2025,2024.0,15.64,14.95,14.95,10.63,-11.31,-12.07,-6.3,yfinance
+KWEB,NetEase Cloud Music,1.2,Social & Entertainment,refreshed,ROIC,11.27,10.26,2025,2024.0,10.19,9.5,9.5,10.62,1.08,0.76,0.65,yfinance
+KWEB,China Literature,1.0,Social & Entertainment,refreshed,ROIC,2.24,2.9,2025,2024.0,12.33,11.66,11.65,10.57,-10.09,-8.76,-8.33,yfinance
+KWEB,QFIN Holdings,1.0,Fintech & Insurance,refreshed,ROE,24.84,,2025,,12.22,,11.53,10.63,12.62,,14.21,yfinance
+KWEB,East Buy,0.8,E-Commerce,refreshed,ROIC,11.18,-1.36,2026,2025.0,15.0,14.27,14.32,10.59,-3.82,-15.63,0.59,yfinance
+KWEB,Ping An Healthcare,0.8,Fintech & Insurance,refreshed,ROE,3.83,2.27,2025,2024.0,14.71,14.02,14.02,10.63,-10.88,-11.75,-6.8,yfinance
+KWEB,Autohome,0.7,E-Commerce,refreshed,ROIC,2.91,3.65,2025,2024.0,9.43,8.73,8.74,10.62,-6.52,-5.08,-7.71,yfinance
+KWEB,Damai Entertainment,0.5,Social & Entertainment,refreshed,ROIC,2.78,2.39,2026,2025.0,14.24,13.34,13.55,10.53,-11.46,-10.95,-7.75,yfinance
+KWEB,Weibo,0.5,Social & Entertainment,refreshed,ROIC,6.99,,2025,,8.58,,7.92,8.73,-1.59,,-1.74,yfinance
